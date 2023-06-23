@@ -1,0 +1,18 @@
+*.url
+*.html
+*.docx
+*.joblib
+*.pkl
+emotion/datasets/Emotion Dataset for Emotion Recognition Tasks/merged_training.pkl
+saved models
+emotion/datasets/Emotion Detection from Text - Kaggle
+emotion/datasets/empatheticdialogues
+emotion/datasets/emocause
+emotion/fastText
+emotion/XLNet
+emotion/dataset sources
+emotion/datasets/urbandict-word-defs.csv
+proposal
+reject
+project update
+alex_conda_list_explicit_2.txt
