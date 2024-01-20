@@ -1,6 +1,5 @@
 
-# Project Report pdf:
-- [project report/project_report.pdf](https://github.com/Unusuala1l2e3x4/Emotion-Classification-of-Tweets-with-Search-Engine/blob/main/project%20report/project_report.pdf)
+Project Report: [project report/project_report.pdf](https://github.com/Unusuala1l2e3x4/Emotion-Classification-of-Tweets-with-Search-Engine/blob/main/project%20report/project_report.pdf)
 
 
 ## Resume Entry
