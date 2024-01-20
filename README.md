@@ -2,6 +2,15 @@
 # 650 Project - Alexander He
 
 
+## Resume Entry
+Emotion Classification of Tweets with Search Engine\
+SI 650: Information Retrieval\
+September 2022 – December 2022
+-	Compared performance between SVM and Random Forest models for classifying emotions of tweets. Constructed n-grams, POS, and sentiment-related features.
+-	Created tweets search engine with emotion filtering using Learning-to-Rank models with relevance features, e.g., Okapi BM25 and TF-IDF with Bayesian smoothing. 
+-	Evaluated search result quality with NDCG cutoffs. Identified most important features with ablation study.
+
+
 ### Data
 - download 'merged_training.pkl' from the source denoted in the report, and put it in the folder 'emotion\datasets\Emotion Dataset for Emotion Recognition Tasks'
   - https://www.dropbox.com/s/607ptdakxuh5i4s/merged_training.pkl
