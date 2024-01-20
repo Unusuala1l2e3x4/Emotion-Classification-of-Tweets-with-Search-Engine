@@ -4,8 +4,8 @@ Project Report: [project report/project_report.pdf](https://github.com/Unusuala1
 
 ## Resume Entry
 Emotion Classification of Tweets with Search Engine\
-SI 650: Information Retrieval\
-September 2022 – December 2022
+September 2022 – December 2022\
+SI 650: Information Retrieval
 -	Compared performance between SVM and Random Forest models for classifying emotions of tweets. Constructed n-grams, POS, and sentiment-related features.
 -	Created tweets search engine with emotion filtering using Learning-to-Rank models with relevance features, e.g., Okapi BM25 and TF-IDF with Bayesian smoothing. 
 -	Evaluated search result quality with NDCG cutoffs. Identified most important features with ablation study.
