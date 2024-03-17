@@ -6,9 +6,11 @@ Project Report: [project report/project_report.pdf](https://github.com/Unusuala1
 Emotion Classification of Tweets with Search Engine\
 September 2022 – December 2022\
 SI 650 – Information Retrieval
--	Compared performance between SVM and Random Forest models for classifying emotions of tweets. Constructed n-grams, POS, and sentiment-related features.
--	Created tweets search engine with emotion filtering using Learning-to-Rank models with relevance features, e.g., Okapi BM25 and TF-IDF with Bayesian smoothing. 
--	Evaluated search result quality with NDCG cutoffs. Identified most important features with ablation study.
+-	Created a specialized search engine in a dual-model setup, utilizing a dataset of 400,000 tweets to classify six emotion labels with SVM and retrieve similar tweets.
+-	Integrated a Learning-to-Rank model using PyTerrier to rank tweets by relevance to user queries, employing techniques like BM25, TF-IDF, and Bayesian smoothing.
+-	Engineered features such as POS tagging, sentiment measures, and n-grams to optimize the performance of both classifier and retrieval models.
+-	Attained high-quality retrieval results, indicated by NDCG scores of 0.84 - 0.93 for the top 5-20 ranked items and an F1 score of 0.85 for emotion classification.
+
 
 
 ### Data
