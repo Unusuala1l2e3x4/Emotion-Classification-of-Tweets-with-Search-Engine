@@ -15,7 +15,8 @@ SI 650 – Information Retrieval
 
 ### Data
 - download 'merged_training.pkl' from the source denoted in the report, and put it in the folder 'emotion\datasets\Emotion Dataset for Emotion Recognition Tasks'
-  - https://www.dropbox.com/s/607ptdakxuh5i4s/merged_training.pkl
+  - https://www.icloud.com/iclouddrive/084E9TMZ_lykn3QhU-kIX1DDQ
+  - original github repo: https://github.com/dair-ai/emotion_dataset
 
 ### How to run:
 1. **Execute "project_classify.ipynb"**
