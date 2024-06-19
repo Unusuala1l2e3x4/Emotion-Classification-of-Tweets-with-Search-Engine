@@ -28,20 +28,6 @@ Project Report: [project report/project_report.pdf](https://github.com/Unusuala1
 - BM25 and TF-IDF both perform better than my best trained ML model. I am using the ML model for purpose of this assignment
 
 
-
 ### Known issues:
 - **Bug with PyTerrier:** program throws error and exits when no results found
   - https://github.com/terrier-org/pyterrier/issues/352
-
-
-
-## Resume Entry
-Emotion Classification of Tweets with Search Engine\
-September 2022 – December 2022\
-SI 650 – Information Retrieval
--	Created a specialized search engine in a dual-model setup, utilizing a dataset of 400,000 tweets to classify six emotion labels with SVM and retrieve similar tweets.
--	Integrated a Learning-to-Rank model using PyTerrier to rank tweets by relevance to user queries, employing techniques like BM25, TF-IDF, and Bayesian smoothing.
--	Engineered features such as POS tagging, sentiment measures, and n-grams to optimize the performance of both classifier and retrieval models.
--	Attained high-quality retrieval results, indicated by NDCG scores of 0.84 - 0.93 for the top 5-20 ranked items and an F1 score of 0.85 for emotion classification.
-
-
